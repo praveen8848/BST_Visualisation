@@ -1,4 +1,4 @@
-# Binary Search Tree Visualization (Java Swing)
+# Binary Search Tree Visualization (Java Swing & Java FX)
 
 ## 🌳 Project Overview
 
